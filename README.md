@@ -55,7 +55,7 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Default | GET Get account data by ID, GET Get account locations data by account ID, GET Get location data by account ID and location ID |
+| Default | Get account data by id, Get account locations data by account id, Get location data by account id and location id |
 
 ---
 
